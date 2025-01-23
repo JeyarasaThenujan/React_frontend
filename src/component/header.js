@@ -41,7 +41,6 @@ const Header = () => {
           </li>
         </ul>
 
-        {/* Sign-Up Button */}
         <button className="button">Sign Up</button>
       </nav>
     </header>
